@@ -34,3 +34,6 @@ ControlParameter:
   enabled: false
 UnusedPrivateMethod:
   enabled: false
+InstanceVariableAssumption:
+  exclude:
+    - !ruby/regexp /Controller$/
