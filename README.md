@@ -3,6 +3,7 @@
 A collection of configuration files we use for source code linters and static
 analysis tools.
 
+* [Cred](http://github.com/rrrene/credo) - [`.credo.exs`](.credo.exs)
 * [ESLint](https://github.com/eslint/eslint) - [`.eslintrc.js`](.eslintrc.js)
 * [Reek](http://github.com/troessner/reek) - [`.defaults.reek`](.defaults.reek)
 * [RuboCop](http://github.com/bbatsov/rubocop/pull/2416) - [`.rubocop.yml`](.rubocop.yml)
