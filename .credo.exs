@@ -34,8 +34,9 @@
         # set the `excluded_macros` parameter to `[:schema, :setup, :test]`.
         {Credo.Check.Design.DuplicatedCode, excluded_macros: []},
 
-        {Credo.Check.Design.TagTODO},
-        {Credo.Check.Design.TagFIXME},
+        # Disabled for now as they are also checked by Code Climate
+        {Credo.Check.Design.TagTODO, false},
+        {Credo.Check.Design.TagFIXME, false},
 
         {Credo.Check.Readability.FunctionNames},
         {Credo.Check.Readability.LargeNumbers},
