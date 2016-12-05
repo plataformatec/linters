@@ -1,14 +1,11 @@
 /*eslint-env node*/
 module.exports = {
-  'env': {
-    'browser': true,
-    'es6': true
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
   },
-  'globals': {
-    '$': true
-  },
-  'ecmaFeatures': {
-    'modules': true
+  "env": {
+    "browser": true
   },
   'rules': {
     'camelcase': 2,
