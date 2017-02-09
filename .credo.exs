@@ -71,7 +71,7 @@
 
         {Credo.Check.Warning.IExPry},
         {Credo.Check.Warning.IoInspect, false},
-        
+
         # Those are warned by Elixir when it is ambiguous since Elixir v1.4
         {Credo.Check.Warning.NameRedeclarationByAssignment, false},
         {Credo.Check.Warning.NameRedeclarationByCase, false},
