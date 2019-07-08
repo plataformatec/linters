@@ -1,4 +1,4 @@
-# Plataformatec linters and static analysis configuration files
+# SourceLevel linters and static analysis configuration files
 
 A collection of configuration files we use for source code linters and static
 analysis tools.
