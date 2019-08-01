@@ -1,0 +1,21 @@
+{
+  "plugins": {
+    "lint": {
+      "final-newline": true,
+      "list-item-bullet-indent": true,
+      "list-item-indent": "tab-size",
+      "no-auto-link-without-protocol": true,
+      "no-blockquote-without-caret": true,
+      "no-literal-urls": true,
+      "ordered-list-marker-style": ".",
+      "hard-break-spaces": true,
+      "no-duplicate-definitions": true,
+      "no-heading-content-indent": true,
+      "no-inline-padding": true,
+      "no-shortcut-reference-image": true,
+      "no-shortcut-reference-link": true,
+      "no-undefined-references": true,
+      "no-unused-definitions": true
+    }
+  }
+}
