@@ -18,8 +18,8 @@ Styleguide repositories are a way to share engine configuration files across mul
 without replicating these files on each codebase, you can learn more information in
 [our docs](https://docs.sourcelevel.io/guides/repos/using-a-styleguide/)
 
-If you're looking for `latest` configs for [channel configuration](https://docs.sourcelevel.io/configuration/#channels)
-you can check [`latest` branch](https://github.com/sourcelevel/linters/tree/latest).
+If you're looking for `stable` configs for [channel configuration](https://docs.sourcelevel.io/configuration/#channels)
+you can check [`master` branch](https://github.com/sourcelevel/linters).
 
 Here you can find a curated styleguide for a collection of configuration files we
 use for source code linters and static analysis tools:
